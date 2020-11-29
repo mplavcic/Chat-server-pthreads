@@ -1,1 +1,1 @@
-# Chat-server---pthreads
+# Chat server - pthreads
